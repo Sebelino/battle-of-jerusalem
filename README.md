@@ -24,5 +24,6 @@ To win, slay all the approaching nazis.
 
 * Press X to attack.
 * Press C to jump.
-* Click on one of the three icons in the bottom left corner of the screen to select type of attack. The rest of the icons do not work.
+* Click on one of the three buttons in the bottom left corner of the screen to select type of attack.
+* The buttons in the lower right corner bring up some menues, altough there is not much for those.
 * Do not bother to load the game, because there is no way to save.
