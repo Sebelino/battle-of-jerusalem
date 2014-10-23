@@ -35,10 +35,11 @@ class ImageUtil {
 	 * @param ref
 	 * @return
 	 */
-	public static BufferedImage loadImage(String ref) {           //Note: Kan ha problem. Anv‰nd ist makeColorTransparent().
+	public static BufferedImage loadImage(String ref) {           //Note: Kan ha problem. Anv√§nd ist makeColorTransparent().
 		BufferedImage bimg = null;
 		try {
 
+            System.out.println(ref);
 			bimg = ImageIO.read(new File(ref));
 		} catch (Exception e) {
 			e.printStackTrace();

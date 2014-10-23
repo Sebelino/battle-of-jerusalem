@@ -55,12 +55,12 @@ public class UI implements Runnable
 		rutor[35] = new Ruta(RutConsts.INV23,false,false,"Pics/UI/InventoryRuta.png");
 		rutor[36] = new Ruta(RutConsts.INV24,false,false,"Pics/UI/InventoryRuta.png");
 		rutor[37] = new Ruta(RutConsts.INV25,false,false,"Pics/UI/InventoryRuta.png");
-		rutor[38] = new Ruta(RutConsts.HEAD,false,false,"Pics/UI/Hj‰lmHandskarSkor.png");
-		rutor[39] = new Ruta(RutConsts.WEAPON,false,false,"Pics/UI/VapenSkˆldInventory.png");
+		rutor[38] = new Ruta(RutConsts.HEAD,false,false,"Pics/UI/Hj√§lmHandskarSkor.png");
+		rutor[39] = new Ruta(RutConsts.WEAPON,false,false,"Pics/UI/VapenSk√∂ldInventory.png");
 		rutor[40] = new Ruta(RutConsts.ARMOR,false,false,"Pics/UI/ArmorInventory.png");
-		rutor[41] = new Ruta(RutConsts.SHIELD,false,false,"Pics/UI/VapenSkˆldInventory.png");
-		rutor[42] = new Ruta(RutConsts.GLOVES,false,false,"Pics/UI/Hj‰lmHandskarSkor.png");
-		rutor[43] = new Ruta(RutConsts.BOOTS,false,false,"Pics/UI/Hj‰lmHandskarSkor.png");
+		rutor[41] = new Ruta(RutConsts.SHIELD,false,false,"Pics/UI/VapenSk√∂ldInventory.png");
+		rutor[42] = new Ruta(RutConsts.GLOVES,false,false,"Pics/UI/Hj√§lmHandskarSkor.png");
+		rutor[43] = new Ruta(RutConsts.BOOTS,false,false,"Pics/UI/Hj√§lmHandskarSkor.png");
 	
 		rutor[44] = new Ruta(RutConsts.AB1,false,false,"Pics/UI/UIMelee.png");
 		rutor[45] = new Ruta(RutConsts.AB2,false,false,"Pics/UI/UICross.png");
