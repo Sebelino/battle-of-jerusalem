@@ -3,7 +3,7 @@ Battle of Jerusalem
 
 Simple action game in 3D isomorphic perspective. We did this as our upper secondary school project in 2009-2010.
 
-The game is a bit messy and largely incomplete, but I am still rather proud of it.
+The game is a bit messy and largely incomplete, but I am still rather proud of it. I wrote 99 % of the code myself, using no gaming libraries or anything. The game engine, while a bit buggy and resource-heavy, actually allows for creating some very customized terrains.
 
 Usage
 =====
