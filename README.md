@@ -7,9 +7,15 @@ The game is a bit messy and largely incomplete, but I am still rather proud of i
 
 Usage
 =====
+If you are using Windows, double-click on **Run.bat**.
+
 Run the game like so:
 ```bash
 java BoJ
+```
+It that does not work, try allocating more memory:
+```bash
+java -Xmx1000m BoJ
 ```
 
 Gameplay
